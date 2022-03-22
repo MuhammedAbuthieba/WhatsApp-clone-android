@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WhatsApp Chat</string>
+    <string name="open_chat">OPEN CHAT</string>
 </resources>

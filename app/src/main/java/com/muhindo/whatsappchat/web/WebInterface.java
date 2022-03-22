@@ -15,7 +15,6 @@ import retrofit2.http.Query;
 import retrofit2.http.QueryMap;
 
 public interface WebInterface {
-
     @FormUrlEncoded
     @POST("register.php")
     Call<ResponseModel> register(

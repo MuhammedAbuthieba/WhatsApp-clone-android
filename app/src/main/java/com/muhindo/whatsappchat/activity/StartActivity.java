@@ -18,7 +18,7 @@ public class StartActivity extends AppCompatActivity {
     public static final String USERS_TABLE = "USERS_TABLE";
     public static final String MESSAGES_TABLE = "MESSAGES_TABLE";
 
-    public static final String BASE_URL = "http://10.0.2.2:8080/whatsapp/";
+    public static final String BASE_URL = "https://myappwhats.000webhostapp.com/";
     DatabaseRepository databaseRepository;
 
     @Override

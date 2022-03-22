@@ -10,7 +10,7 @@ import static com.muhindo.whatsappchat.activity.StartActivity.USERS_TABLE;
 @Entity(tableName = USERS_TABLE)
 public class UserModel {
 
-    @NonNull
+   
     @PrimaryKey
     public int user_id = 0;
 

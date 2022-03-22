@@ -12,7 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
-        android:text="OPEN CHAT"
-        android:textSize="20dp" />
+        android:text="@string/open_chat"
+        android:textSize="20sp" />
 
 </LinearLayout>
